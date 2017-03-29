@@ -12,5 +12,17 @@
 </head>
 <body>
 
+<center>
+
+    --------------------------------------------------
+
+</center>
+<center>欢迎使用icollect网络收藏夹</center>
+<center>
+
+    --------------------------------------------------
+
+</center>
+<center><a href="#">登录</a> &nbsp; <a href="#">注册</a></center>
 </body>
 </html>
