@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:15:07:34 +0800] "GET /icollect HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:15:07:34 +0800] "GET /icollect HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:15:08:04 +0800] "GET /icollect HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:15:08:04 +0800] "GET /icollect/ HTTP/1.1" 200 12 http-bio-8080-exec-3 11
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:15:08:04 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:16:10:46 +0800] "GET /icollect/ HTTP/1.1" 200 102 http-bio-8080-exec-1 638
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:16:42:15 +0800] "GET /icollect/ HTTP/1.1" 200 102 http-bio-8080-exec-8 3
